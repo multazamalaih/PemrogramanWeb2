@@ -1,0 +1,1 @@
+<?php mkdir("contoh_direktori"); ?>
